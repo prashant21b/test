@@ -1,6 +1,0 @@
-{{#user}}
-Name: Prashant kumar jha
-Skills: HTML, CSS, JS, React.js,Node.js,Express,Mongodb,Mysql
-Email: jhakumarprasant111@gmail.com
-{{/user}}
-
